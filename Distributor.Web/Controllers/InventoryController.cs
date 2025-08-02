@@ -15,7 +15,7 @@ namespace Distributor.Web.Controllers
 
         public async Task<IActionResult> Index()
         {
-            int distributorId = 1; // Mocked for now
+            int distributorId = 1; // Mocked for now demo purposes
             var inventory = await _api.GetInventoryAsync(distributorId);
             return View(inventory);
         }

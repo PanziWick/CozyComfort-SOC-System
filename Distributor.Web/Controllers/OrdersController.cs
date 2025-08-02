@@ -15,8 +15,7 @@ namespace Distributor.Web.Controllers
 
         public async Task<IActionResult> Index()
         {
-            // For demo purposes, we assume orders from Seller "Seller1"
-            string sellerName = "Seller1";
+            string sellerName = "Seller1"; // Mocked for demo purposes
             var orders = await _api.GetOrdersAsync(sellerName);
             return View(orders);
         }
