@@ -36,7 +36,28 @@ The system follows SOC:
 ---
 
 ## 🚀 Setup & Run
-**Clone repo**:
+1. **Clone repo**:
    ```bash
-   git clone https://github.com/PanziWick/CozyComfort-SOC-System.git
-  
+   git clone https://github.com/<your-username>/CozyComfort-SOC-System.git
+   
+2. **API Setup**:
+- Open CozyComfort.Services in Visual Studio
+- Update appsettings.json connection string
+Run:
+```
+Update-Database
+```
+- Start API (Swagger UI available)
+
+3. **Manufacturer Desktop App**:
+- Open Manufacturer.Desktop → Run
+- Connects automatically to API endpoints (set base URL in BlanketService.cs)
+
+4. **Distributor Web App**:
+- Open Distributor.Web → Run
+- View inventory and manage orders
+
+5. **Seller Web App**:
+- Open Seller.Web → Run
+- Place and track orders
+
