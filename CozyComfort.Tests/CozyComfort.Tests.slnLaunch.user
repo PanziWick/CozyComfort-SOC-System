@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CozyComfort.Tests.csproj",
+        "Action": "Start",
+        "DebugTarget": "CozyComfort.Tests"
+      },
+      {
+        "Path": "..\\CozyComfort.Services\\CozyComfort.Services.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]
