@@ -324,6 +324,7 @@ C:\Users\USER\source\repos\CozyComfortSolution\CozyComfort.Services\obj\Debug\ne
 C:\Users\USER\source\repos\CozyComfortSolution\CozyComfort.Services\obj\Debug\net8.0\CozyComfort.Services.csproj.CoreCompileInputs.cache
 C:\Users\USER\source\repos\CozyComfortSolution\CozyComfort.Services\obj\Debug\net8.0\CozyComfort.Services.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\USER\source\repos\CozyComfortSolution\CozyComfort.Services\obj\Debug\net8.0\CozyComfort.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\source\repos\CozyComfortSolution\CozyComfort.Services\obj\Debug\net8.0\CozyComfort.Services.sourcelink.json
 C:\Users\USER\source\repos\CozyComfortSolution\CozyComfort.Services\obj\Debug\net8.0\scopedcss\bundle\CozyComfort.Services.styles.css
 C:\Users\USER\source\repos\CozyComfortSolution\CozyComfort.Services\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\USER\source\repos\CozyComfortSolution\CozyComfort.Services\obj\Debug\net8.0\staticwebassets.build.json.cache

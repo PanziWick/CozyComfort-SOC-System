@@ -20,6 +20,7 @@ C:\Users\USER\source\repos\CozyComfortSolution\Manufacturer.Desktop\obj\Debug\ne
 C:\Users\USER\source\repos\CozyComfortSolution\Manufacturer.Desktop\obj\Debug\net8.0-windows\Manufacturer.Desktop.AssemblyInfoInputs.cache
 C:\Users\USER\source\repos\CozyComfortSolution\Manufacturer.Desktop\obj\Debug\net8.0-windows\Manufacturer.Desktop.AssemblyInfo.cs
 C:\Users\USER\source\repos\CozyComfortSolution\Manufacturer.Desktop\obj\Debug\net8.0-windows\Manufacturer.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CozyComfortSolution\Manufacturer.Desktop\obj\Debug\net8.0-windows\Manufacturer.Desktop.sourcelink.json
 C:\Users\USER\source\repos\CozyComfortSolution\Manufacturer.Desktop\obj\Debug\net8.0-windows\Manufact.011C2A7F.Up2Date
 C:\Users\USER\source\repos\CozyComfortSolution\Manufacturer.Desktop\obj\Debug\net8.0-windows\Manufacturer.Desktop.dll
 C:\Users\USER\source\repos\CozyComfortSolution\Manufacturer.Desktop\obj\Debug\net8.0-windows\refint\Manufacturer.Desktop.dll

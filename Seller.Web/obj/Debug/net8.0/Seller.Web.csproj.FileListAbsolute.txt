@@ -22,6 +22,7 @@ C:\Users\USER\source\repos\CozyComfortSolution\Seller.Web\obj\Debug\net8.0\Selle
 C:\Users\USER\source\repos\CozyComfortSolution\Seller.Web\obj\Debug\net8.0\Seller.Web.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\USER\source\repos\CozyComfortSolution\Seller.Web\obj\Debug\net8.0\Seller.Web.RazorAssemblyInfo.cache
 C:\Users\USER\source\repos\CozyComfortSolution\Seller.Web\obj\Debug\net8.0\Seller.Web.RazorAssemblyInfo.cs
+C:\Users\USER\source\repos\CozyComfortSolution\Seller.Web\obj\Debug\net8.0\Seller.Web.sourcelink.json
 C:\Users\USER\source\repos\CozyComfortSolution\Seller.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\USER\source\repos\CozyComfortSolution\Seller.Web\obj\Debug\net8.0\scopedcss\bundle\Seller.Web.styles.css
 C:\Users\USER\source\repos\CozyComfortSolution\Seller.Web\obj\Debug\net8.0\scopedcss\projectbundle\Seller.Web.bundle.scp.css
