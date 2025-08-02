@@ -1,0 +1,21 @@
+﻿@model List<Seller.Web.Models.InventoryDTO>
+
+<h2>My Inventory</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Blanket ID</th>
+            <th>Quantity</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.BlanketId</td>
+                <td>@item.Quantity</td>
+            </tr>
+        }
+    </tbody>
+</table>
