@@ -1,2 +1,24 @@
-# Visual Studio
+# Build results
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.vspscc
+
+# Visual Studio settings
 .vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Others
+*.db
+*.vsidx
+*.v2
+*.log
+*.props
+*.targets

@@ -26,3 +26,4 @@ C:\Users\USER\source\repos\CozyComfortSolution\Manufacturer.Desktop\obj\Debug\ne
 C:\Users\USER\source\repos\CozyComfortSolution\Manufacturer.Desktop\obj\Debug\net8.0-windows\Manufacturer.Desktop.pdb
 C:\Users\USER\source\repos\CozyComfortSolution\Manufacturer.Desktop\obj\Debug\net8.0-windows\Manufacturer.Desktop.genruntimeconfig.cache
 C:\Users\USER\source\repos\CozyComfortSolution\Manufacturer.Desktop\obj\Debug\net8.0-windows\ref\Manufacturer.Desktop.dll
+C:\Users\USER\source\repos\CozyComfortSolution\Manufacturer.Desktop\obj\Debug\net8.0-windows\Manufacturer.Desktop.sourcelink.json

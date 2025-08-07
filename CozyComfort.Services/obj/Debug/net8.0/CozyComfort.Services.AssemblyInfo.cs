@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("43599cd3-cbd0-4e99-a87e-35457a9b4325")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CozyComfort.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fb8dd3c839a4d241fbcea0b7398f31fcb4dfb7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CozyComfort.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CozyComfort.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

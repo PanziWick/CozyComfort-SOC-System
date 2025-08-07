@@ -36,3 +36,4 @@ C:\Users\USER\source\repos\CozyComfortSolution\Seller.Web\obj\Debug\net8.0\refin
 C:\Users\USER\source\repos\CozyComfortSolution\Seller.Web\obj\Debug\net8.0\Seller.Web.pdb
 C:\Users\USER\source\repos\CozyComfortSolution\Seller.Web\obj\Debug\net8.0\Seller.Web.genruntimeconfig.cache
 C:\Users\USER\source\repos\CozyComfortSolution\Seller.Web\obj\Debug\net8.0\ref\Seller.Web.dll
+C:\Users\USER\source\repos\CozyComfortSolution\Seller.Web\obj\Debug\net8.0\Seller.Web.sourcelink.json

@@ -7,60 +7,12 @@
       "RelativeMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|solutionrelative:controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\distributor.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\distributor.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\distributor.web\\services\\distributorapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|solutionrelative:services\\distributorapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\distributor.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\distributor.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\distributor.web\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|solutionrelative:views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\distributor.web\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\distributor.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\distributor.web\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|solutionrelative:models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\distributor.web\\views\\inventory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|solutionrelative:views\\inventory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\distributor.web\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|solutionrelative:views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\distributor.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\distributor.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\distributor.web\\models\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|solutionrelative:models\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\distributor.web\\services\\distributorapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1027A17-27A3-4DCC-8923-7D1DD4E4839E}|Distributor.Web.csproj|solutionrelative:services\\distributorapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,165 +30,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T05:51:54.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-01T05:51:29.963Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-01T05:51:11.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-01T05:50:55.01Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-01T05:50:31.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-01T05:50:09.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Views\\Orders\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Orders\\Index.cshtml",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Views\\Orders\\Index.cshtml",
-              "RelativeToolTip": "Views\\Orders\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-01T05:48:18.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Views\\Orders\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Orders\\Create.cshtml",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Views\\Orders\\Create.cshtml",
-              "RelativeToolTip": "Views\\Orders\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-01T05:47:56.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Views\\Inventory\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Inventory\\Index.cshtml",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Views\\Inventory\\Index.cshtml",
-              "RelativeToolTip": "Views\\Inventory\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-01T05:45:45.044Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DistributorApiService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Services\\DistributorApiService.cs",
-              "RelativeDocumentMoniker": "Services\\DistributorApiService.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Services\\DistributorApiService.cs",
-              "RelativeToolTip": "Services\\DistributorApiService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T05:43:27.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OrderDTO.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Models\\OrderDTO.cs",
-              "RelativeDocumentMoniker": "Models\\OrderDTO.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Models\\OrderDTO.cs",
-              "RelativeToolTip": "Models\\OrderDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T05:42:29.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "InventoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Models\\InventoryDTO.cs",
-              "RelativeDocumentMoniker": "Models\\InventoryDTO.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Models\\InventoryDTO.cs",
-              "RelativeToolTip": "Models\\InventoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T05:42:01.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T05:40:16.18Z",
+              "WhenOpened": "2025-08-07T07:45:43.146Z",
               "EditorCaption": ""
             },
             {
@@ -247,22 +49,22 @@
               "RelativeDocumentMoniker": "Controllers\\InventoryController.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Controllers\\InventoryController.cs",
               "RelativeToolTip": "Controllers\\InventoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T05:40:00.333Z",
+              "WhenOpened": "2025-08-07T07:45:40.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-01T05:33:46.283Z",
+              "DocumentIndex": 2,
+              "Title": "DistributorApiService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Services\\DistributorApiService.cs",
+              "RelativeDocumentMoniker": "Services\\DistributorApiService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Distributor.Web\\Services\\DistributorApiService.cs",
+              "RelativeToolTip": "Services\\DistributorApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T07:44:43.051Z",
               "EditorCaption": ""
             }
           ]

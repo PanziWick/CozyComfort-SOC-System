@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Seller.Web\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FAA0A960-000E-420A-A571-97D284A1B48A}|Seller.Web.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\seller.web\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA0A960-000E-420A-A571-97D284A1B48A}|Seller.Web.csproj|solutionrelative:controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA0A960-000E-420A-A571-97D284A1B48A}|Seller.Web.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\seller.web\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA0A960-000E-420A-A571-97D284A1B48A}|Seller.Web.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FAA0A960-000E-420A-A571-97D284A1B48A}|Seller.Web.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\seller.web\\services\\sellerapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAA0A960-000E-420A-A571-97D284A1B48A}|Seller.Web.csproj|solutionrelative:services\\sellerapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,14 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Seller.Web\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Seller.Web\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T08:32:52.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Seller.Web\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Seller.Web\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T08:32:50.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SellerApiService.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Seller.Web\\Services\\SellerApiService.cs",
               "RelativeDocumentMoniker": "Services\\SellerApiService.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\Seller.Web\\Services\\SellerApiService.cs",
               "RelativeToolTip": "Services\\SellerApiService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T12:45:49.758Z",
+              "WhenOpened": "2025-08-07T07:50:33.352Z",
               "EditorCaption": ""
             }
           ]

@@ -12,7 +12,7 @@ namespace Manufacturer.Desktop.Services
     internal class BlanketService
     {
         private readonly HttpClient _http;
-        private readonly string _baseUrl = "http://localhost:5175/api/Manufacturer";
+        private readonly string _baseUrl = "http://localhost:8080/api/Manufacturer";
 
         public BlanketService()
         {

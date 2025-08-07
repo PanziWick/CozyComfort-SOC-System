@@ -329,10 +329,10 @@ C:\Users\USER\source\repos\CozyComfortSolution\CozyComfort.Services\obj\Debug\ne
 C:\Users\USER\source\repos\CozyComfortSolution\CozyComfort.Services\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\USER\source\repos\CozyComfortSolution\CozyComfort.Services\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\USER\source\repos\CozyComfortSolution\CozyComfort.Services\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\USER\source\repos\CozyComfortSolution\CozyComfort.Services\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\USER\source\repos\CozyComfortSolution\CozyComfort.Services\obj\Debug\net8.0\CozyComf.D94670AB.Up2Date
 C:\Users\USER\source\repos\CozyComfortSolution\CozyComfort.Services\obj\Debug\net8.0\CozyComfort.Services.dll
 C:\Users\USER\source\repos\CozyComfortSolution\CozyComfort.Services\obj\Debug\net8.0\refint\CozyComfort.Services.dll
 C:\Users\USER\source\repos\CozyComfortSolution\CozyComfort.Services\obj\Debug\net8.0\CozyComfort.Services.pdb
 C:\Users\USER\source\repos\CozyComfortSolution\CozyComfort.Services\obj\Debug\net8.0\CozyComfort.Services.genruntimeconfig.cache
 C:\Users\USER\source\repos\CozyComfortSolution\CozyComfort.Services\obj\Debug\net8.0\ref\CozyComfort.Services.dll
+C:\Users\USER\source\repos\CozyComfortSolution\CozyComfort.Services\obj\Debug\net8.0\CozyComfort.Services.sourcelink.json

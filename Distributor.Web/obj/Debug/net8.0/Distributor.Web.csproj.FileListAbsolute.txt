@@ -35,3 +35,4 @@ C:\Users\USER\source\repos\CozyComfortSolution\Distributor.Web\obj\Debug\net8.0\
 C:\Users\USER\source\repos\CozyComfortSolution\Distributor.Web\obj\Debug\net8.0\Distributor.Web.pdb
 C:\Users\USER\source\repos\CozyComfortSolution\Distributor.Web\obj\Debug\net8.0\Distributor.Web.genruntimeconfig.cache
 C:\Users\USER\source\repos\CozyComfortSolution\Distributor.Web\obj\Debug\net8.0\ref\Distributor.Web.dll
+C:\Users\USER\source\repos\CozyComfortSolution\Distributor.Web\obj\Debug\net8.0\Distributor.Web.sourcelink.json

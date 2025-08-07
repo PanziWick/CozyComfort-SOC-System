@@ -6,7 +6,7 @@ namespace Distributor.Web.Services
     public class DistributorApiService
     {
         private readonly HttpClient _http;
-        private readonly string _baseUrl = "http://localhost:5175/api/Distributor";
+        private readonly string _baseUrl = "http://localhost:8080/api/Distributor";
 
         public DistributorApiService()
         {

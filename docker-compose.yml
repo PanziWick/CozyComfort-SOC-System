@@ -1,0 +1,25 @@
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    container_name: cozy_sql
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=P@ss_W0rd.Strong
+    ports:
+      - "1433:1433"
+    volumes:
+      - sql_data:/var/opt/mssql
+
+  cozycomfort-api:
+    build:
+      context: .
+      dockerfile: CozyComfort.Services/Dockerfile
+    container_name: cozy_api
+    depends_on:
+      - sqlserver
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=sqlserver;Database=CozyComfortDb;User Id=sa;Password=P@ss_W0rd.Strong;TrustServerCertificate=True;
+    ports:
+      - "8080:80"
+volumes:
+  sql_data:

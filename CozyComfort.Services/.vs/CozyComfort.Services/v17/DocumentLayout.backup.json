@@ -3,20 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\cozycomfort.services.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:cozycomfort.services.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\services\\implementations\\distributorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:services\\implementations\\distributorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\controllers\\distributorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:controllers\\distributorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\services\\interfaces\\idistributorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:services\\interfaces\\idistributorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\controllers\\manufacturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:controllers\\manufacturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\services\\implementations\\manufacturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:services\\implementations\\manufacturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\services\\implementations\\distributorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:services\\implementations\\distributorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\dtos\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,24 +83,12 @@
       "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:services\\implementations\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\controllers\\manufacturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:controllers\\manufacturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\dtos\\blanketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:dtos\\blanketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\services\\interfaces\\idistributorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:services\\interfaces\\idistributorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\services\\interfaces\\isellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:services\\interfaces\\isellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\services\\implementations\\manufacturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|solutionrelative:services\\implementations\\manufacturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBC0AB57-FD9A-452C-8024-7780742F262A}|CozyComfort.Services.csproj|c:\\users\\user\\source\\repos\\cozycomfortsolution\\cozycomfort.services\\services\\interfaces\\imanufacturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,20 +118,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-04T18:24:12.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CozyComfort.Services",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\CozyComfort.Services.csproj",
+              "RelativeDocumentMoniker": "CozyComfort.Services.csproj",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\CozyComfort.Services.csproj",
+              "RelativeToolTip": "CozyComfort.Services.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-04T18:20:04.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-04T17:33:48.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAQwAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-30T17:42:17.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "20250725131620_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Migrations\\20250725131620_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20250725131620_InitialCreate.cs",
@@ -123,25 +175,49 @@
               "RelativeToolTip": "Migrations\\20250725131620_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T17:42:11.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T17:42:11.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAUAAAAAAAAAAABRwBoAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-27T08:11:42.542Z",
+              "WhenOpened": "2025-07-27T08:11:42.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T12:07:51.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-08-05T10:51:29.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "SellerController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Controllers\\SellerController.cs",
               "RelativeDocumentMoniker": "Controllers\\SellerController.cs",
@@ -149,12 +225,11 @@
               "RelativeToolTip": "Controllers\\SellerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T18:54:53.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T18:54:53.383Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "SellerService.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Services\\Implementations\\SellerService.cs",
               "RelativeDocumentMoniker": "Services\\Implementations\\SellerService.cs",
@@ -162,12 +237,11 @@
               "RelativeToolTip": "Services\\Implementations\\SellerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T18:53:18.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T18:53:18.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "ISellerService.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Services\\Interfaces\\ISellerService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\ISellerService.cs",
@@ -175,21 +249,19 @@
               "RelativeToolTip": "Services\\Interfaces\\ISellerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T18:53:06.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T18:53:06.816Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "DistributorController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Controllers\\DistributorController.cs",
               "RelativeDocumentMoniker": "Controllers\\DistributorController.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Controllers\\DistributorController.cs",
               "RelativeToolTip": "Controllers\\DistributorController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAmwB4AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T17:44:50.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T17:44:50.537Z"
             },
             {
               "$type": "Document",
@@ -199,27 +271,25 @@
               "RelativeDocumentMoniker": "Services\\Implementations\\DistributorService.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Services\\Implementations\\DistributorService.cs",
               "RelativeToolTip": "Services\\Implementations\\DistributorService.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T17:41:02.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T17:41:02.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 8,
               "Title": "IDistributorService.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Services\\Interfaces\\IDistributorService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IDistributorService.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Services\\Interfaces\\IDistributorService.cs",
               "RelativeToolTip": "Services\\Interfaces\\IDistributorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T17:40:42.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T17:40:42.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "ManufacturerController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Controllers\\ManufacturerController.cs",
               "RelativeDocumentMoniker": "Controllers\\ManufacturerController.cs",
@@ -227,25 +297,23 @@
               "RelativeToolTip": "Controllers\\ManufacturerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T13:42:38.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T13:42:38.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 11,
               "Title": "ManufacturerService.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Services\\Implementations\\ManufacturerService.cs",
               "RelativeDocumentMoniker": "Services\\Implementations\\ManufacturerService.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Services\\Implementations\\ManufacturerService.cs",
               "RelativeToolTip": "Services\\Implementations\\ManufacturerService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAIBJwAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T13:32:55.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T13:32:55.278Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "IManufacturerService.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Services\\Interfaces\\IManufacturerService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IManufacturerService.cs",
@@ -253,25 +321,11 @@
               "RelativeToolTip": "Services\\Interfaces\\IManufacturerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T13:32:39.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T13:32:39.82Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T12:07:51.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -284,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "OrderDTO.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\DTOs\\OrderDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\OrderDTO.cs",
@@ -292,12 +346,11 @@
               "RelativeToolTip": "DTOs\\OrderDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T12:05:40.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T12:05:40.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "InventoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\DTOs\\InventoryDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\InventoryDTO.cs",
@@ -305,12 +358,11 @@
               "RelativeToolTip": "DTOs\\InventoryDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T12:05:26.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T12:05:26.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "BlanketDTO.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\DTOs\\BlanketDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\BlanketDTO.cs",
@@ -318,12 +370,11 @@
               "RelativeToolTip": "DTOs\\BlanketDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T12:05:04.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T12:05:04.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -331,12 +382,11 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T12:02:51.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T12:02:51.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
@@ -344,12 +394,11 @@
               "RelativeToolTip": "Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T12:02:27.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T12:02:27.152Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Inventory.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Models\\Inventory.cs",
               "RelativeDocumentMoniker": "Models\\Inventory.cs",
@@ -357,12 +406,11 @@
               "RelativeToolTip": "Models\\Inventory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T12:01:49.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T12:01:49.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "Blanket.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CozyComfortSolution\\CozyComfort.Services\\Models\\Blanket.cs",
               "RelativeDocumentMoniker": "Models\\Blanket.cs",
@@ -370,8 +418,7 @@
               "RelativeToolTip": "Models\\Blanket.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T12:01:20.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T12:01:20.564Z"
             }
           ]
         }
